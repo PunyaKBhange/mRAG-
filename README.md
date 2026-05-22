@@ -53,8 +53,8 @@ mrag_plus_project/
 **Requirements:** Python 3.8+, pip
 
 ```bash
-git clone https://github.com/saanjjjj/mrag_plus_project.git
-cd mrag_plus_project
+git clone https://github.com/PunyaKBhange/mRAG-.git
+cd mRAG+
 
 pip install transformers rapidfuzz unidecode datasets sentencepiece \
             accelerate faiss-cpu langdetect python-Levenshtein \
